@@ -1,2 +1,3 @@
 # Lims
 New project
+Lawyers information management system (LIMS) is a web based platform that will enable users to easily hire advocates of their choice who has Rwanda Bar association membership. The system’s main function will be the provision of the necessary information about an advocate, such as: their qualifications, work experiences, contacts and their locations of their cabinets. The system will have three users who will be the advocate who wants to upload and update the information about them, a database manager who is responsible of the system database since the system is web based, and the client who wants to get in touch with the lawyer. 
